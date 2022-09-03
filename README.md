@@ -62,5 +62,5 @@ List of changes:
  -  4x Iron Block
  -  4x Iron Bars
  -  1x Eye of Ender
- -   No Spawn Eggs currently craftable
+ -   No Spawn Eggs currently craftable.
 Any and all comments are appreciated, because they may help improve the datapack

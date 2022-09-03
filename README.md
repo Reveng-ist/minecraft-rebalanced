@@ -1,7 +1,10 @@
 # minecraft-rebalanced
 Have you ever felt like Minecraft was too easy? Like it was too fast?
+
 I did.
+
 So, I changed a lot of recipes to take longer to get to, and made some things easier to access. For instance, to get diamond tools and armor, you need prismarine now. However, chainmail armor is now craftable, and is easier to get to than iron armor. Also, all horse armor is now craftable.Because of the change to diamond tools and armor, I made diamonds (and coal) renewable.
+
 List of changes:
  - Leather armor now takes less leather, and uses sticks and string instead.
  - Leather horse armor now requires:

@@ -1,4 +1,4 @@
-# minecraft-rebalanced
+# Minecraft Rebalanced
 Have you ever felt like Minecraft was too easy? Like it was too fast?
 
 I did.
